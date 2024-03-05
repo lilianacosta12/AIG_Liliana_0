@@ -3,4 +3,5 @@ portatil
 telemovel
 tablet
 rato
-carregador  
+carregador
+cabo hdmi
