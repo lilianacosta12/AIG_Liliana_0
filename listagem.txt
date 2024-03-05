@@ -2,3 +2,5 @@ computador
 portatil
 telemovel
 tablet
+rato
+carregador  
